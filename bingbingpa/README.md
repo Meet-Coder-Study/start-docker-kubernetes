@@ -1,4 +1,5 @@
 - 1주차(2022-06-19): [1주차 정리](https://opensesame.notion.site/2-365da2409ee045f0b31f5f4f0c4064bc)
 - 2주차(2022-06-26): [2주차 정리](https://opensesame.notion.site/2-365da2409ee045f0b31f5f4f0c4064bc)
 - 3주차(2022-07-03): [3주차 정리](https://opensesame.notion.site/2-365da2409ee045f0b31f5f4f0c4064bc)
-- 4주차(2022-07-10): [4주차 정리](https://www.notion.so/opensesame/3-bd6511dfe6734d27a17322caf4cd039e)
+- 4주차(2022-07-10): [4주차 정리](https://opensesame.notion.site/4-bc473fb421ff41aa83c83fce734f6302)
+- 5주차(2022-07-17): [5주차 정리](https://opensesame.notion.site/5-7a2f1f4dbf0d42758f0e5e5adb64772f)
