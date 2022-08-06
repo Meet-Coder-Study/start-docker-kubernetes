@@ -1,0 +1,19 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: ingress-example
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /$2
+    kubernetes.io/ingress.class: "nginx"
+spec:
+  rules:
+  - host: opensesame.com
+    http:
+      paths:
+        - path: /echo-hostname(/|$)(.*)
+          pathType: Prefix
+          backend:
+            service:
+              name: hostname-service
+              port:
+                number: 80
