@@ -5,3 +5,4 @@
 - 5주차(2022-07-17): [5주차 정리](https://opensesame.notion.site/5-7a2f1f4dbf0d42758f0e5e5adb64772f)
 - 6주차(2022-07-24): [6주차 정리](https://opensesame.notion.site/7-0db71de41ad44bf09892ed8881a17581)
 - 7주차(2022-07-31): [7주차 정리](https://opensesame.notion.site/9-PV-PVC-586fff174de9410d93c0c9bef6f1a604)
+- 8주차(2022-08-07): [8주차 정리](https://opensesame.notion.site/10-ServiceAccount-RBAC-793e91da1a204c5fab43dcf42d84b766)
